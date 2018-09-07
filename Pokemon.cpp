@@ -9,7 +9,6 @@
  * user is to try to defeat the 5 pokemon that the opponent's have with the 3 that he is given before they defeat him.
  * Additional features similar to the actual pokemon game include switching pokemon, and using items.
  *
- * Created on May 10, 2016, 9:12 AM
  *
  */
 
